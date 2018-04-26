@@ -9,5 +9,7 @@
     "git.autofetch": true,
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
-    }
+    },
+    "files.autoSave": "off",
+    "explorer.confirmDragAndDrop": false
 }
