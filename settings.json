@@ -4,12 +4,12 @@
     "editor.snippetSuggestions": "top",
     "editor.formatOnPaste": true,
     "fileheader.Author": "Teaism",
-    "fileheader.LastModifiedBy": "Teaism", 
-    "sync.gist": "c9f1c685cc88fd96ac56d7a7ca7f886cf5174fa1",
+    "fileheader.LastModifiedBy": "Teaism",
     "git.autofetch": true,
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
     },
+    "standard.semistandard": true,
     "files.autoSave": "off",
     "explorer.confirmDragAndDrop": false
 }
